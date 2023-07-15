@@ -18,9 +18,11 @@ This API is designed to find intersections between a given linestring and a set 
 ### Setup
 
 1. Run the following command to install the required dependencies:
+   npm install
 
 
-2. Start the server by running the following command:
+3. Start the server by running the following command:
+   npm start
 
 
 The server will start running on `http://localhost:3000`.
